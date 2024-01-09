@@ -1,6 +1,6 @@
 header {
 
-    background-image: url("/resources/Banner\ Image.png");
+    background-image: url("./resources/Banner\ Image.png");
     background-repeat: no-repeat;
     width: 1320px;
     height: 600px;
@@ -74,7 +74,7 @@ header {
     margin: 48px 398.1px 120px 399px;
 }
 .two {
-    background-image: url('/resources/Vectorrr.png');
+    background-image: url('./resources/Vectorrr.png');
     background-repeat: no-repeat;
     width: 1320px;
     height: 600px;
