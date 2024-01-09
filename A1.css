@@ -1,0 +1,360 @@
+header {
+
+    background-image: url("/resources/Banner\ Image.png");
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    margin: 50px 140px 120px 140px;
+    border-radius: 16px;
+
+}
+.contain-banner {
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+
+}
+.contain-banner>h3 {
+
+    color: #FFF;
+    padding: 117px 530px 0px 531px;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.contain-banner>h2 {
+    color: #FFF;
+    width: 632px;
+    text-align: center;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    text-align: center;
+    padding: 0px 344px 177px 344px;
+}
+.lalu {
+    color: #F00;
+}
+.off {
+    font-size: 45px;
+    text-align: center;
+}
+.offer {
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.good-line {
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.all-cate {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.happy-pic {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    margin: 48px 398.1px 120px 399px;
+}
+.two {
+    background-image: url('/resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    margin: 0px 140px 120px;
+    padding: 100px 0px 142px 126px;
+}
+.wel {
+    color: #FFF;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    width: 642px;
+}
+.two>H4 {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 697px;
+}
+.btn {
+    color: #FFF;
+    background-color: transparent;
+    border: none;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 0px 0px 0px 20px;
+}
+.rd {
+    background-image: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+    margin: 120px 140px;
+    border-radius: 8px;
+}
+.rd>h3 {
+    padding: 100px 386px 0px 385px;
+    font-weight: 600;
+    line-height: 56px
+}
+.button-rd {
+    border-radius: 8px;
+    background: #F00;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 0px;
+    border: none;
+    text-decoration: #FFF;
+}
+.main-p {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 393px;
+}
+.side-div>h1 {
+    color: #070211;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.best {
+    text-align: center;
+    font-family: Inter;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+#img {
+    width: 35%;
+
+}
+.img-bor {
+    border: 8px solid rgb(194, 0, 0);
+    padding: 20px;
+    border-radius: 210px;
+
+}
+.side-text {
+    width: 20%;
+}
+.main-div {
+    display: flex;
+    margin: 120px 140px;
+}
+.year {
+    font-size: 66px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.side-text>p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.four {
+    text-align: center;
+}
+
+.four>h3 {
+    color: #070211;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.four>h1 {
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+
+}
+
+.four>h5 {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    width: 1068px;
+    margin: 0px 266px;
+}
+
+.six-div {
+    margin: 120px 0px 48px 140px;
+}
+
+.six-div>h4 {
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.six-div>h1 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.six-div>h5 {
+
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 896px;
+}
+
+.six-img {
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 120px;
+}
+
+.seven-form {
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+    margin: 120px 140px;
+}
+.info {
+    text-align: center;
+}
+
+.seven-img {
+    padding: 80px 585px 20px;
+}
+
+.info>h1 {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.info>p {
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+    padding: 0px 212px 10px;
+}
+
+form {
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 50px;
+}
+
+input {
+    height: 50px;
+}
+
+.input-n {
+    width: 500px;
+}
+
+/* now lets start footer */
+
+footer {
+    background: #070211;
+    width: 1600px;
+    height: 609px;
+    flex-shrink: 0;
+}
+
+.footer-one{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    display: flex; 
+    padding-left: 140px;
+    padding-top: 120px;
+    
+}
+.wh{
+    color: #FFF; 
+   margin-left: 140px;
+}
+.dis-f{
+    display: inline;
+}
+.img-footer{
+    margin-left: 640px;
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+.footer-text{
+    margin-left: 599px;
+}
